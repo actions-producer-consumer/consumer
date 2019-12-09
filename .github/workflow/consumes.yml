@@ -1,3 +1,5 @@
+name: consume
+
 on: [repository_dispatch]
 
 jobs:
